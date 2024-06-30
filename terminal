@@ -1,0 +1,7 @@
+cd goit-markup-hw-01
+git add --all
+git commit --m "add markup header"
+git push
+git add .
+git commit -m "Ваше повідомлення коміту"
+git push origin main
